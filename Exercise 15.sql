@@ -4158,6 +4158,8 @@ end) as 'Duration'
   from `games`;
 
 
+# Exercise 16
+
 
 
 
